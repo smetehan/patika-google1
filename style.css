@@ -1,0 +1,66 @@
+.container{
+    width: 1000px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 50px auto 0 auto;
+    
+
+}
+.left-bar {
+   
+    float:none;
+    
+}
+.goog{
+
+}
+.orta {
+    background-color: rgb(184, 183, 183);
+   
+}
+.ser{
+    width:250px;
+    height: 30px;
+    border: 2px;
+    border-color: white;
+background-color:white;
+}
+.l{
+    background-color: rgb(14, 188, 165);
+    width: 30%;
+    height: 98px;
+    float: left;
+    margin-right:0.3%;
+}
+.o{
+    background-color: rgb(12, 191, 131);
+    float: left;
+    width: 25%;
+    height: 98px;
+    margin-right: 0.3%;
+}
+.r {
+    background-color: rgb(7, 146, 139);
+    float: right;
+    height: 98px;
+    width: 44.4%;
+}
+.ay { font-size: x-small;
+    
+
+}
+.ar {
+    width: 150px;
+    height:15px ;
+    background-color: white;
+}
+.br {
+  
+}
+#a {
+    float: none;
+}
+.son {
+    font-size: small;
+ 
+}
